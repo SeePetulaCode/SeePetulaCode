@@ -3,7 +3,7 @@
 <!--
 **SeePetulaCode/SeePetulaCode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-<img scr="https://res.cloudinary.com/b1917/image/upload/v1596247944/8bitcity.gif">
+<img src="https://res.cloudinary.com/b1917/image/upload/v1596247944/8bitcity.gif">
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
