@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--
-**SeePetulaCode/SeePetulaCode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**SeePetulaCode/SeePetulaCode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 <img src="https://res.cloudinary.com/b1917/image/upload/v1596247944/8bitcity.gif">
 Here are some ideas to get you started:
@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
