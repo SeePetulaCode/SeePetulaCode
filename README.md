@@ -8,10 +8,10 @@
 
 Here are some ideas to get you started:
 
-- **I’m currently working on** building my skills
+- **I’m currently working on** a [FireBall(bright meteor) locator](https://github.com/Sebastian-git/north-star) with my team ,North Star, in the 2020 Snap Engineer Academy Program.(Tools:NASA API, Node/Express, Firebase, JavaScript, HTML).
 - **I’m currently learning** Node.js/API integration. Upgrading Skills: Javascript, Python and Cinema4D.
-- **I’m looking to collaborate** on a project with my Snap Engineer Academy teammates. Work on nonprofit projects on the side.
+- **I’m looking to collaborate** on projects with my Snap Engineer Academy teammates. Work on nonprofit projects.
 - **I’m looking for help with** finding internships, apprenticeship and meeting people.(Jr Dev/UX Engineer)
 - **Ask me about** anything.
-- **How to reach me:** petulapascall@gmail.com
+- **How to reach me:** [linkedin.com/in/petulapascall/](https://www.linkedin.com/in/petulapascall/)
 - **Fun fact:** Favorite food is Trini street food - [Doubles](https://en.wikipedia.org/wiki/Doubles_(food)) and Curried Goat w. Roti
