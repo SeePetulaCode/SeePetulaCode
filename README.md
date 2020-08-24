@@ -6,8 +6,7 @@
 
 ------
 
-Here are some ideas to get you started:
-
+// [LAST 5 PROJECTS](https://github.com/SeePetulaCode/Last-5-Projects) //
 - **I’m currently working on** a [FireBall(bright meteor) locator](https://github.com/Sebastian-git/north-star) with my team ,North Star, in the 2020 Snap Engineer Academy Program.(Tools:NASA API, Node/Express, Firebase, JavaScript, HTML).
 - **I’m currently learning** Node.js/API integration. Upgrading Skills: Javascript, Python and Cinema4D.
 - **I’m looking to collaborate** on projects with my Snap Engineer Academy teammates. Work on nonprofit projects.
