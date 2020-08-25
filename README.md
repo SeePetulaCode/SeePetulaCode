@@ -10,7 +10,7 @@
 - **I’m currently working on** a Snap Observatory Snap Mini (Mobile HTML5) - V2 of my last project.
 - **Last Project that I worked on** a [FireBall(bright meteor) locator](https://github.com/Sebastian-git/north-star) with my team ,North Star, in the 2020 Snap Engineer Academy Program.(Tools:NASA API, Node/Express, Firebase, JavaScript, HTML).
 - **I’m currently learning** Node.js/API integration. Upgrading Skills: Javascript, Python and Cinema4D.
-- **I’m looking to collaborate** on projects with my Snap Engineer Academy teammates. Work on nonprofit projects.
+- **I’m looking to collaborate** on nonprofit projects.
 - **I’m looking for help with** finding internships, apprenticeship and meeting people.(Jr Dev/UX Engineer)
 - **Ask me about** anything.
 - **How to reach me:** [linkedin.com/in/petulapascall/](https://www.linkedin.com/in/petulapascall/)
