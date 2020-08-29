@@ -6,6 +6,12 @@
 
 ------
 
+I am a big fan of Human-Computer Interaction and it’s future. In general, I am fascinated by people and how they interact with products, services, experiences, each other and the world. I will pursue a career that involves prototyping, engineering, and HCI. 
+
+I would love to be a part of your team. I’m currently looking for internships/apprenticeships for 2021 (Winter,Summer, Fall).
+
+------
+
 // [LAST 5 PROJECTS](https://github.com/SeePetulaCode/Last-5-Projects) //
 - **I’m currently working on** a Snap Observatory Snap Mini (Mobile HTML5) - V2 of my last project.
 - **Last Project that I worked on** a [FireBall(bright meteor) locator](https://github.com/Sebastian-git/north-star) with my team ,North Star, in the 2020 Snap Engineer Academy Program.(Tools:NASA API, Node/Express, Firebase, JavaScript, HTML).
