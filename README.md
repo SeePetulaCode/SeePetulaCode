@@ -20,4 +20,4 @@ I would love to be a part of your team. I’m currently looking for internships/
 - **I’m looking for help with** finding internships, apprenticeship and meeting people.(Jr Dev/UX Engineer)
 - **Ask me about** anything.
 - **How to reach me:** [linkedin.com/in/petulapascall/](https://www.linkedin.com/in/petulapascall/)
-- **Fun fact:** Favorite food is Trini street food - [Doubles](https://en.wikipedia.org/wiki/Doubles_(food)) and Curried Goat w. Roti
+- **Fun fact:** Favorite food are Trini street food - [Doubles](https://en.wikipedia.org/wiki/Doubles_(food)) and Curried Goat w. Roti
