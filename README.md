@@ -8,7 +8,7 @@
 
 I am a big fan of Human-Computer Interaction and it’s future. In general, I am fascinated by people and how they interact with products, services, experiences, each other and the world. I will pursue a career that involves prototyping, engineering, and HCI. 
 
-Currently working part time at Purpose Project. Always interested in internships/apprenticeships/nonprofit projects for 2021/2020 (Winter,Summer, Fall).
+Currently working part time at Purpose Project. Always interested in internships/apprenticeships/nonprofit projects for 2021/2022 (Winter,Summer, Fall).
 
 ------
 
