@@ -14,7 +14,7 @@ Currently working contract at Purpose Project. Always interested in nonprofit/fo
 
 // [LAST 10 PROJECTS](https://github.com/SeePetulaCode/Last-10-Projects) //
 - **I’m currently working at** [Purpose Project](https://www.purposeproject.org/) (Product Development & UX Engineer)
-- **Last Projects that I worked on** a [FireBall(bright meteor) locator](https://github.com/Sebastian-git/north-star) with my team ,North Star, in the 2020 Snap Engineer Academy Program.(Tools:NASA API, Node/Express, Firebase, JavaScript, HTML).
+- **Last Projects that I worked on** ...
 - **I’m currently learning** Bug Hunting
 - **I’m looking to collaborate** on nonprofit/for good projects.
 - **I’m looking for help with** finding internships, apprenticeship and meeting people.(Jr Dev/UX Engineer)
