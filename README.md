@@ -12,7 +12,6 @@ Currently working contract at Purpose Project. Always interested in nonprofit/fo
 
 ------
 
-// [LAST 10 PROJECTS](https://github.com/SeePetulaCode/Last-10-Projects) //
 - **I’m currently working at** [Purpose Project](https://www.purposeproject.org/) (Product Development & UX Engineer)
 - **Last Projects that I worked on** ...
 - **I’m currently learning** Bug Hunting
