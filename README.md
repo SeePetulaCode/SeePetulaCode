@@ -17,7 +17,7 @@ Currently working contract at Purpose Project. Always interested in nonprofit/fo
 - **Last Projects that I worked on** ...
 - **I’m currently learning** Bug Hunting
 - **I’m looking to collaborate** on nonprofit/for good projects.
-- **I’m looking for help with** finding internships, apprenticeship and meeting people.(Jr Dev/UX Engineer)
+- **I’m looking for help with** ...
 - **Ask me about** anything.
 - **How to reach me:** [linkedin.com/in/petulapascall/](https://www.linkedin.com/in/petulapascall/)
 - **Fun fact:** Favorite food are Trini street food - [Doubles](https://en.wikipedia.org/wiki/Doubles_(food)) and Curried Goat w. Roti
