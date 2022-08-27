@@ -19,4 +19,4 @@ Currently working contract at Purpose Project. Always interested in nonprofit/fo
 - **I’m looking for help with** ...
 - **Ask me about** anything.
 - **How to reach me:** [linkedin.com/in/petulapascall/](https://www.linkedin.com/in/petulapascall/)
-- **Fun fact:** Favorite food are Trini street food - [Doubles](https://en.wikipedia.org/wiki/Doubles_(food)) and Curried Goat w. Roti
+- **Fun fact:** Favorite food are Trini street food - [Doubles](https://en.wikipedia.org/wiki/Doubles_(food)), Curried Goat w. Roti and Kurma(very similar to the Japanese sweet - Karinto).
