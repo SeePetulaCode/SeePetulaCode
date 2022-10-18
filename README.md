@@ -13,7 +13,6 @@ Always interested in nonprofit/for-good projects.
 ------
 
 - **I’m currently working at** [Purpose Project](https://www.purposeproject.org/) (Product Development & UX Engineer)
-- **Last Projects that I worked on** ...
 - **I’m currently learning** Bug Hunting
 - **I’m looking to collaborate** on nonprofit/for good projects.
 - **I’m looking for help with** ...
