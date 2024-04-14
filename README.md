@@ -8,14 +8,15 @@
 
 I am a big fan of Human-Computer Interaction and it’s future. In general, I am fascinated by people and how they interact with products, services, experiences, each other and the world. 
 
-Always interested in nonprofit/for-good projects.
+Interested in volunteer nonprofit/for-good projects.
 
 ------
 
-- **I’m currently working at** [Purpose Project](https://www.purposeproject.org/) (Product Development & UX Engineer)
+- **I’m currently working as a** Fullstack Designer (Entertainment)
+- **My Last Gig was** [Purpose Project](https://www.purposeproject.org/) - Product Development & UX Engineer
 - **I’m currently learning** Bug Hunting
 - **I’m looking to collaborate** on nonprofit/for good projects.
 - **I’m looking for help with** ...
 - **Ask me about** anything.
 - **How to reach me:** [linkedin.com/in/petulapascall/](https://www.linkedin.com/in/petulapascall/)
-- **Fun fact:** Favorite food are Trini street food - [Doubles](https://en.wikipedia.org/wiki/Doubles_(food)), Curried Goat w. Roti and Kurma(very similar to the Japanese sweet - Karinto).
+- **Fun fact:** Favorite food are Trini street food - [Doubles](https://en.wikipedia.org/wiki/Doubles_(food)), Curried Goat w. Roti and Kurmah(very similar to the Japanese sweet - Karinto).
