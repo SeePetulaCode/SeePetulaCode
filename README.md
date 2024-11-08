@@ -12,8 +12,8 @@ Interested in volunteer nonprofit/for-good projects.
 
 ------
 
-- **I’m currently working as a** [Purpose Project](https://www.purposeproject.org/)
-- **My Last Gig was** Development Lead & UX Engineer Fullstack Designer (Warner Bros. Discovery)
+- **I’m currently working as a** Development Lead & UX Engineer [Purpose Project](https://www.purposeproject.org/)
+- **My Last Gig was** Fullstack Designer (Warner Bros. Discovery)
 - **I’m currently learning** Bug Hunting
 - **I’m looking to collaborate** on nonprofit/for good projects(volunteering).
 - **I’m looking for help with** ...
