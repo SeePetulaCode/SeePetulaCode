@@ -15,8 +15,8 @@ Interested in volunteer nonprofit/for-good projects.
 - **My Current Portfolio** [Fall 2024](https://tiny.cc/pascall-portfolio)
 - **I’m currently working as a** Development Lead & UX Engineer [Purpose Project](https://www.purposeproject.org/)
 - **My Last Gig was** Fullstack Designer (Warner Bros. Discovery)
-- **I’m currently learning** Bug Hunting
-- **I’m looking to collaborate** on nonprofit/for good projects(volunteering).
+- **I’m currently learning** Intermediate React and AI Engineering
+- **I’m looking to collaborate** on nonprofit/for good projects(volunteering and paid).
 - **I’m looking for help with** ...
 - **Ask me about** anything.
 - **How to reach me:** [linkedin.com/in/petulapascall/](https://www.linkedin.com/in/petulapascall/)
